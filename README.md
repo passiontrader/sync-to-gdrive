@@ -119,8 +119,8 @@ Download `sync_to_gdrive.py` and place it in the folder you want to sync:
 
 ```bash
 # Clone the repository
-git clone https://github.com/passiontrader/gdrive-folder-sync.git
-cd gdrive-folder-sync
+git clone https://github.com/passiontrader/sync-to-gdrive.git
+cd sync-to-gdrive
 
 # Install the single dependency
 pip install -r requirements.txt
